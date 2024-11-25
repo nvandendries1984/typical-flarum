@@ -7,8 +7,8 @@
     "type": "flarum-extension",
     "license": "MIT",
     "support": {
-        "issues": "#",
-        "source": "#"
+        "issues": "https://github.com/nvandendries1984/typical-flarum/issues",
+        "source": "https://github.com/nvandendries1984/typical-flarum"
     },
     "require": {
         "flarum/core": "^1.0"
