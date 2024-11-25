@@ -1,0 +1,27 @@
+{
+    "name": "nielsvandendries/typical-flarum",
+    "description": "First try for a new Theme",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "#",
+        "source": "#"
+    },
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Typical",
+            "category": "theme",
+            "icon": {
+                "name": "fab fa-hippo",
+                "backgroundColor": "#0078d4",
+                "color": "#fff"
+            }
+        }
+    }
+}
